@@ -2,6 +2,8 @@
 
 Sou estudante de Ciência da Computação e estou em transição de carreira para a área de **Desenvolvimento de Software**. Atualmente, estou me formando como **Desenvolvedor Full-Stack / Engenheiro de Software** pela Escola DNC.
 
+- 🚀 Em transição de carreira para a área de tecnologia, trago comigo experiências anteriores nas áreas administrativa e comercial — onde desenvolvi habilidades essenciais como organização, proatividade e comunicação, que hoje aplico com entusiasmo no desenvolvimento de software.
+
 💻 **Tecnologias e Ferramentas que venho estudando:**  
 - Linguagens: `JavaScript`, `Python`, `Java`  
 - Web: `HTML`, `CSS`, `Responsividade`, `Figma`  

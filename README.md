@@ -30,9 +30,9 @@ Sou estudante de Ciência da Computação e estou em transição de carreira par
 
 ✨ Em breve você poderá encontrar aqui projetos como:
 
-- **To-Do List Responsiva** – Uma aplicação web com HTML, CSS e JS, com foco em manipulação do DOM e layout adaptável.
-- **Landing Page de Produto** – Interface responsiva construída com base em um protótipo do Figma.
-- **Mini API em Python** – Projeto em desenvolvimento com consumo de dados simulados.
+- **Atendimento-Medico** – Cod feito totalmente em Java.
+- **Gerenciador-de-Tarefas-com-JS** – Uma aplicação web com HTML, CSS e JS, com foco em manipulação do DOM e layout adaptável.
+- **Portifolio** – Projeto em desenvolvimento com HTML e CSS de um exemplo de portifolio ficticio.
 
 > Todos os repositórios terão um `README.md` completo explicando o contexto, o objetivo, as tecnologias utilizadas e como rodar localmente!
 

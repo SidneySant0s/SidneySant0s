@@ -10,6 +10,7 @@ Sou estudante de Ciência da Computação e estou em transição de carreira par
 - Banco de dados: `SQL`, `Google Planilhas`, `Excel`  
 - Ferramentas: `Git`, `GitHub`, `VSCode`
 ---
+ <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
@@ -24,6 +25,7 @@ Sou estudante de Ciência da Computação e estou em transição de carreira par
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+</div>
 
 🚀 Estou em busca da minha primeira oportunidade na área de tecnologia para aplicar na prática os conhecimentos adquiridos e contribuir com soluções eficientes, bem organizadas e escaláveis.
 

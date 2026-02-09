@@ -35,11 +35,9 @@ Sou estudante de Ciência da Computação e estou em transição de carreira par
 
 ## 📂 Projetos em destaque
 
-✨ Em breve você poderá encontrar aqui projetos como:
-
-- **Atendimento-Medico** – Cod feito totalmente em Java.
+- **Dashboard-Sales** – React com TypeScript e consiste na criação de um dashboard de acompanhamento de vendas para uma empresa fictícia.
 - **Gerenciador-de-Tarefas-com-JS** – Uma aplicação web com HTML, CSS e JS, com foco em manipulação do DOM e layout adaptável.
-- **Portifolio** – Projeto em desenvolvimento com HTML e CSS de um exemplo de portifolio ficticio.
+- **Atendimento medico** – Este projeto foi desenvolvido em Java com base em um atendimento de um paciente em um posto de saúde.
 
 > Todos os repositórios terão um `README.md` completo explicando o contexto, o objetivo, as tecnologias utilizadas e como rodar localmente!
 

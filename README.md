@@ -10,7 +10,7 @@ Sou estudante de Ciência da Computação e estou em transição de carreira par
 - Banco de dados: `SQL`, `Google Planilhas`, `Excel`  
 - Ferramentas: `Git`, `GitHub`, `VSCode`
 ---
- <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+ <div style="display: inline-block; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
